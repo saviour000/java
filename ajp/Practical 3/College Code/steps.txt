@@ -1,0 +1,34 @@
+1. Open Apache NetBeans
+2. File -> New Project 
+3. Javawith Ant -> Java Web -> web Application -> Next
+4. Give Project Name -> Next
+5. Server: Apache Tomcat or TomEE -> Select only one time
+6. Finish
+
+
+7. Right Click on -> Source Packages -> New -> Servlet
+8. Give ClassName . Classname should be same as code class Name
+9. Tick on Add information to deploymentt descriptor(web.xml) -> Finish
+10. Now First Copy and Paste RegisterUser.java Code in it.
+11. rpeat 7,8 & 9 -> Now Copy and Paste DisplayUsers.java Code in it.
+12. In Web Pages -> index.html -> copy paste index.html code.
+
+
+13. Right click on Libraries -> Add Jar/Folder and add jar file
+
+14. Open xampp -> create Database here db name is servlets
+15. Create Table wiht 5 columns
+        id -> Primary key
+        name
+        birthdate
+        email
+        phone_no
+
+16. Now Right click on your Project and run
+
+Done..................................................................
+
+
+
+
+
